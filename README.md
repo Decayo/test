@@ -6,14 +6,16 @@ ___
 
 # Introduction
 
-...
+![](https://i.imgur.com/BBF1gEA.png)
+![](https://i.imgur.com/qsCTJlJ.png)
+
 
 # Quick Start
 
 
-[Installer wiki](https://github.com/meta-audience/BeatSaber_audience/releases)
+[Installer wiki](https://github.com/Decayo/test/wiki/Quick-Setup#audienceinstaller-auto-install)
 
-[Mannual install wiki](https://github.com/meta-audience/BeatSaber_audience/releases)
+[Mannual install wiki](https://github.com/Decayo/test/wiki/Quick-Setup#mannual-install)
 
 
 
